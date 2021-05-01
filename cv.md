@@ -3,7 +3,7 @@
 telegram: @bazarovalive | e-mail: olya.stash@yandex.ru | Discord: bazarovalive#8306  
 
 ----
-## **Summary**
+### **Summary**
 
 I am finishing the third year of the Faculty of Applied Mathematics at the Kuban State University. In the third semester, when we were studying OOP, I decided that, as a programmer, I will be working in the scope of mobile development. Because I adore about the product made by Apple, I chose iOS development.
 
